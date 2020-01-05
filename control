@@ -1,0 +1,9 @@
+Package: com.icraze.noburst
+Name: NoBurst
+Author: iCraze
+Description: Disables The Burst Feature In The Camera App. 
+Depends: mobilesubstrate
+Maintainer: iCraze
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.1
